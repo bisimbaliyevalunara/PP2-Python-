@@ -1,0 +1,42 @@
+The Three Musketeers;Alexandre Dumas;Adventure;17;source\\mus.jpg;default
+Treasure Island;Robert Louis Stevenson;Adventure;8;source\\island.jpg;default
+King Solomon's Mines;H. Rider Haggard,A. C. Michael;Adventure;22;source\\king.jpg;default
+Journey to the Center of the Earth;Jules Verne;Adventure;11;source\\img9.jpg;default
+The Count of Monte Cristo;Alexandre Dumas;Adventure;24;source\\cou.jpg;default
+Ivanhoe;Walter Scott;Adventure;13;source\\ivan.jpg;default
+LE MORTE DARTHUR;Thomas Malory;Fantasy;6;source\\img12.jpg;default
+Stardust;Neil Gaiman;Fantasy;31;source\\img13.jpg;default
+Jade City;Fonda Lee;Fantasy;24;source\\city.jpg;default
+The Last Unicorn;Peter S Beagle;Fantasy;15;source\\image_15.jpg;default
+Who Fears Death;Nnedi Okorafor;Fantasy;20;source\\img16.jpg;default
+The Power;Naomi Alderman;Fantasy;9;source\\img17.jpg;default
+Fooled by Randomness;Nassim Nicholas Taleb;Business;13;source\\img18.jpg;default
+Breakthrough Advertising;Eugene Schwartz;Business;25;source\\img19.jpg;default
+Simple Numbers, Straight Talk, Big Profits!;Greg Crabtree;Business;33;source\\img20.jpg;default
+How to Win Friends & Influence People;Dale Carnegie;Business;26;source\\img21.jpg;default
+The 22 Immutable Laws of Marketing;Al Ries,Jack Trout;Business;18;source\\img22.jpg;default
+Business Adventures;John Brooks;Business;12;source\\img23.jpg;default
+A Brief History of Time;Stephen Hawking, Leonard Mlodinov;Scientific and Education;15;source\\hist.jpg;default
+Women in Science: 50 Fearless Pioneers;Rachel Ignotofsky;Scientific and Education;24;source\\wom.jpeg;default
+A brief history of mankind;Yoval Noah Harari;Scientific and Education;17;source\\scient.jpg;default
+The History of Ancient Rome;Mary Baird;Scientific and Education;3;source\\rom1.jpg;default
+The Apology of mathematics;Vladimir Uspensky;Scientific and Education;7;source\\math.jpg;default
+Astronomy in 30 seconds;Francois Fressen;Scientific and Education;12;source\\space.jpg;default
+Don't Let the Pigeon Drive!;Mo Willems;For kids;40;source\\img24.jpg";default
+Goodnight,Construction Site;Sherri Duskey Rinker;For kids;25;source\\img25.jpg;default
+The Snowy Day;Ezra Jack Keats;For kids;17;source\\img26.jpg;default
+The Very Hungry Caterpillar;Eric Carle;For kids;15;source\\img27.jpg;default
+Where the Wild Things Are;Maurice Sendak;For kids;23;source\\img28.jpg;default
+The Tale of Peter Rabbit;Beatrix Potter;For kids;20;source\\img29.jpg;default
+The Happiness Hypothesis;Jonathan Haidt;Psychology;14;source\\img30.jpg;default
+The Psychology of Persuasion;Robert B. Cialdini;Psychology;18;source\\img31.jpg;default
+Mistakes Were Made;Carol Tavris;Psychology;21;source\\img32.jpg;default
+How to Solve Problems;Dan Heath;Psychology;34;source\\img33.jpg;default
+The School of Life;Alain de Botton;Psychology;21;source\\img34.jpg;default
+The Body Keeps the Score;Bessel Van Der Kolk;Psychology;8;source\\img35.jpg;default
+The Pilgrims Progress;John Bunyan;Novel;24;source\\img36.jpg;default
+Robinson Crusoe;Daniel Defoe;Novel;23;source\\img37.jpg;default
+Gullivers Travels;onathan Swift;Novel;13;source\\img38.jpg;default
+Clarissa;Samuel Richardson;Novel;5;source\\img39.jpg;default
+Tom Jones;Henry Fielding;Novel;7;source\\img40.jpg;default
+Emma;Jane Austen;Novel;19;source\\img41.jpg;default
